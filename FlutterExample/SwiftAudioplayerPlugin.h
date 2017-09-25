@@ -16,6 +16,7 @@
 #import "FlutterMethodChannel.h"
 #import "FlutterPluginRegistrar.h"
 #import "FlutterMethodCall.h"
+const NSObject *_Nonnull FlutterMethodNotImplemented;
 typedef void (^FlutterResult)(id _Nullable);
 // end
 

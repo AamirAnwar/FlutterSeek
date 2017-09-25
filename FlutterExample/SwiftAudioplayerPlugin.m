@@ -10,7 +10,6 @@
 #import "SwiftAudioplayerPlugin.h"
 #import "FlutterMethodChannel.h"
 
-const NSObject *_Nonnull FlutterMethodNotImplemented;
 @interface SwiftAudioplayerPlugin() <FlutterPlugin>
 @property (nonatomic) BOOL isPlaying;
 @end
