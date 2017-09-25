@@ -1,2 +1,2 @@
 # FlutterSeek
-Converted audio seeking functionality in Flutter.io to objective C
+Converted audio seeking functionality used in Flutter.io projects to objective C
